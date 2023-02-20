@@ -1,1 +1,2 @@
 ---Testing the functionality of the Git----
+---Making Changes befor pushing to the remote repositories---
